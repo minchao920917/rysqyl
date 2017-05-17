@@ -1,0 +1,124 @@
+a:link{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+a:visited{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+a:hover{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #144882;
+	text-decoration: underline;
+}
+.font1{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #333333;
+}
+.txt{
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #333333;
+	width:150px;
+}
+a.font1:link{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+a.font1:visited{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+a.font1:hover{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #144882;
+	text-decoration: underline;
+}
+.font2{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #144882;
+}
+a.font2:link{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #144882;
+	text-decoration: none;
+}
+a.font2:visited{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #144882;
+	text-decoration: none;
+}
+a.font2:hover{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #144882;
+	text-decoration: underline;
+}
+.font3{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #ffffff;
+}
+a.font3:link{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.font3:visited{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.font3:hover{
+	font-family: "";
+	font-size: 12px;
+	line-height: 1.5;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
